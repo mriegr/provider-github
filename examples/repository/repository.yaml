@@ -1,4 +1,4 @@
-apiVersion: repository.github.abc.de/v1alpha1
+apiVersion: github.abc.de/v1alpha1
 kind: Repository
 metadata:
   name: hello-crossplane
